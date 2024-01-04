@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "hongkewu.github.io"
+  title: "Hongke (Amy) Wu"
   navbar:
     left:
       - href: index.qmd
