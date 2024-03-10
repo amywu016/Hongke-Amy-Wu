@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Profile
+      - href: Publication.qmd
+        text: Publications
 format:
   html:
     theme: cosmo
