@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Profile
-      - href: Publication.qmd
+      - href: Publications.qmd
         text: Publications
 format:
   html:
