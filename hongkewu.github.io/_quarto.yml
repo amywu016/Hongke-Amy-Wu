@@ -7,7 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Profile
-      - publication.qmd
 format:
   html:
     theme: cosmo
