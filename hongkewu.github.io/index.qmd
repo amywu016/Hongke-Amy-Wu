@@ -1,0 +1,46 @@
+---
+title: "Hongke (Amy) Wu"
+image: "selfie.jpg"
+toc: false
+about:
+  id: ppc
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+  - text: Email
+    icon: envelope
+    href: mailto:amywu016@gmail.com
+  - text: Linkedin
+    icon: linkedin
+    href: https://www.linkedin.com/in/hongke-wu/
+  - text: ORCID
+    icon: link-45deg
+    href: https://orcid.org/0000-0003-1835-4600
+---
+
+
+:::{#ppc}
+
+I am a Master's student in Biostatistics program at Case Western Reserve University with interdiciplinary backgrounds from Epidemiology and Clinical Medicine. My research interests include but not limited to cancer, dementia, environmental health, and nutrition. 
+
+## Education
+
+Case Western Reserve University, College of Medicine, Department of Population and Quantitative Health Science | Cleveland, OH |
+M.S. in Biostatistics | Aug 2023 - present
+
+Tulane University, School of Public Health and Tropical Medicine, Department of Epidemiology | New Orleans, LA | 
+M.P.H in Epidemiology | Aug 2016 - May 2018
+
+Hubei University for Nationalities, School of Medicine | Enshi, China | 
+M.D. in Clinical Medicine | Sep 2011 - Jun 2016
+
+## Working Experience
+
+Case Western Reserve University | Research Assistant | Aug 2023 - present
+
+Penn State College of Medicine | Graduate Research Assistant | Aug 2020 - Aug 2023
+
+Ma'anshan Central Hospital | Physician Intern | Oct 2014 - Feb 2016
+
+:::
