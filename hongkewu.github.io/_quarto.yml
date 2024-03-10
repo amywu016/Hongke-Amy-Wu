@@ -8,7 +8,6 @@ website:
       - href: index.qmd
         text: Profile
       - publication.qmd
-      - Volunteer.qmd
 format:
   html:
     theme: cosmo
