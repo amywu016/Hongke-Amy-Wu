@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Profile
       - Publications.qmd
-      - Volunteer.qmd
+      - Post.qmd
 format:
   html:
     theme: minty
