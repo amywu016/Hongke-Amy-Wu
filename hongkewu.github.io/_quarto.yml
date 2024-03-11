@@ -4,7 +4,7 @@ project:
 website:
   title: "Hongke (Amy) Wu"
   navbar:
-    background: primary
+    background: secondary
     search: true
     left:
       - href: index.qmd
@@ -13,7 +13,7 @@ website:
       - Post.qmd
 format:
   html:
-    theme: minty
+    theme: sketchy
     css: styles.css
     toc: true
 
