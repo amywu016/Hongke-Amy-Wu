@@ -7,11 +7,13 @@ website:
     left:
       - href: index.qmd
         text: Profile
-      - Publications.qmd
-      - Volunteer.qmd
+      - href: Publications.qmd
+        text: Publications
+      - href: Volunteer.qmd
+        text: Volunteer
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
